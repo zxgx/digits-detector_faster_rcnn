@@ -1,5 +1,5 @@
 # Digits Detector based on Faster RCNN
-## **Unfishied yet**.
+## **Deprecated**.
 
 faster_rcnn.ipynb is a pytorch 1.1 implementation of [simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch). I only give a sanity check in this notebook, since it is an object detector trained on VOC dataset, and I implemented it aiming for a better understanding of Faster RCNN.
 
